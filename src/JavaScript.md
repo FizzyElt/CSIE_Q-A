@@ -21,3 +21,8 @@ const 在宣告過後無法再對變數重新賦值及重複宣告。
 * [MDN var](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Statements/var)
 * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 * * *
+#### 何謂 callback function?
+回呼函式（**callback function**）是指能藉由參數（**argument**）通往另一個函式的函式。它會在外部函式內調用、以完成某些事情。<br>
+callback function 在 JS 中可以做為非同步操作的一個做法例如 **setTimeout、setInterval** 等等，
+但是當 callback function 疊過多層時會造成 **callback hell** 的狀況，使程式碼可讀性降低，直到 ES6 **Promise** 的出現才解決了此問題。
+* [MDN 回呼函式](https://developer.mozilla.org/zh-TW/docs/Glossary/Callback_function)
