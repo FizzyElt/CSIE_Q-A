@@ -21,3 +21,13 @@ AJAX 應用可以僅向伺服器傳送並取回必要的資料，並且由JavaSc
 - [wiki AJAX](https://zh.wikipedia.org/zh-tw/AJAX)
 - [MDN AJAX](https://developer.mozilla.org/zh-TW/docs/Web/Guide/AJAX)
 ----------
+#### 什麼是 REST/RESTful (Representational State Transfer) ?
+RESTful是一種軟體架構風格，並不是一個標準及規範，通常應用在http 中，利用 http 的 method 來定義要對資源做的動作，URI作為資源的名稱，以及資源呈現的方式作為形容詞。
+
+| Nouns        | Verbs | Content Types |
+| ------------ | ----- | ------------- |
+| HTTP methods | URI   | XML, JSON...  |
+
+- [RESTful API 設計準則與實務經驗](https://www.webguide.nat.gov.tw/News_Content.aspx?n=531&s=2918)
+- [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/) 
+----------
