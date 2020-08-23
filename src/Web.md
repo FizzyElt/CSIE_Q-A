@@ -35,5 +35,11 @@ RESTful是一種軟體架構風格，並不是一個標準及規範，通常應�
 DOM 是用來表示和與任何HTML 或 XML 文件互動的 API。<br>
 DOM 是一個載入於 browser 中的文件模組，它的表示方式像樹的節點一樣, 每個節點代表著文件的一部分(如：element、 文字或留言)。
 - [MDN DOM](https://developer.mozilla.org/zh-TW/docs/Web/API/Document_Object_Model)
-  ----------
-  
+----------
+  #### 什麼是 Cookie ?
+  Cookie 是一個網站通過瀏覽器訪問在訪客電腦裡留下的一小段訊息，最大可存放 4KB (4096 Bytes)。
+- [wiki Cookie](https://zh.wikipedia.org/zh-tw/Cookie)
+- [MDN Cookie](https://developer.mozilla.org/zh-TW/docs/Glossary/Cookie)
+- [MDN Document.cookie](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/cookie)
+- [RFC 6265 page27](https://tools.ietf.org/html/rfc6265#page-27)
+----------
