@@ -31,3 +31,9 @@ RESTful是一種軟體架構風格，並不是一個標準及規範，通常應�
 - [RESTful API 設計準則與實務經驗](https://www.webguide.nat.gov.tw/News_Content.aspx?n=531&s=2918)
 - [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/) 
 ----------
+#### 什麼是 DOM (Document Object Model) ?
+DOM 是用來表示和與任何HTML 或 XML 文件互動的 API。<br>
+DOM 是一個載入於 browser 中的文件模組，它的表示方式像樹的節點一樣, 每個節點代表著文件的一部分(如：element、 文字或留言)。
+- [MDN DOM](https://developer.mozilla.org/zh-TW/docs/Web/API/Document_Object_Model)
+  ----------
+  
