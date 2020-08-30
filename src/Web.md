@@ -44,3 +44,12 @@ DOM 是一個載入於 browser 中的文件模組，它的表示方式像樹的�
 - [MDN Document.cookie](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/cookie)
 - [RFC 6265 page27](https://tools.ietf.org/html/rfc6265#page-27)
 ----------
+#### Session Storage 跟 Local Storage 的區別是什麼 ?
+兩者都可以暫存一些網頁資訊，容量為 5MB<br>
+Session Storage 的資料會再關閉該頁面及瀏覽器什消失<br>
+Local Storage 則會永久存放<br>
+不論資料放在 sessionStorage 還是 localStorage，都被限制在該網站的規範內，其他網站無法存取。
+- [MDN localStorage](https://developer.mozilla.org/zh-TW/docs/Web/API/Window/localStorage)
+- [MDN sessionStorage](https://developer.mozilla.org/zh-TW/docs/Web/API/Window/sessionStorage)
+- [MDN Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+
