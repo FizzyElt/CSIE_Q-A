@@ -53,3 +53,6 @@ Local Storage 則會永久存放<br>
 - [MDN sessionStorage](https://developer.mozilla.org/zh-TW/docs/Web/API/Window/sessionStorage)
 - [MDN Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 
+### 淺談Session跟Cookie
+這篇文章用一些生活常見的例子使得沒有web經驗的人也能有些簡單的概念。
+- [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)
